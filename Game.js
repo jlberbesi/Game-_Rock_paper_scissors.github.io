@@ -29,6 +29,8 @@ if (pc == jugador) {
     alert("Ganaste")
 } else if (jugador == 2 && pc == 1){
     alert("Ganaste")
+} else if (jugador == 3 && pc == 1){
+    alert("Ganaste")
 } else {
     alert("PERDISTE")
 }
